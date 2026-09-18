@@ -151,7 +151,7 @@ When the `dispatch` role is used and `aap_configuration_collect_logs` is enabled
 it will display any errors encountered while applying the configurations and
 fail.
 
-Example Output when using the `dispatch` role and encoutering failures::
+Example Output when using the `dispatch` role and encoutering failures:
 
 ```yaml
 fatal: [localhost]: FAILED! => {
